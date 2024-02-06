@@ -140,3 +140,4 @@ backups/*
 #requirements.txt
 *model.pt
 # 
+venv_data_science_2024
