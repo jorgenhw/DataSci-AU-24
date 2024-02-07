@@ -137,7 +137,6 @@ syllabus/classes/class3/tmp.py
 # Solutions to assignments
 solutions/*
 backups/*
-#requirements.txt
 *model.pt
 # 
 venv_data_science_2024
